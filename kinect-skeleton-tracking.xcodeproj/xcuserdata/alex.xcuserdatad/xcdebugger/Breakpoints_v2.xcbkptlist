@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "072B6BDC-0DEB-4C42-894B-5C0F5EEE956E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../libs/openFrameworks/graphics/ofPixels.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1263"
+            endingLineNumber = "1263"
+            landmarkName = "resize(dstWidth, dstHeight, interpMethod)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - c7cb3290e5efccbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;char&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - 6aa7bf2ba6823d35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;unsigned char&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - cf80dce2d23f41c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;short&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - 1878c0c4ec1da142"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;unsigned short&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - deb9d9ff3ff0dcef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;int&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - c2a007505e3fc269"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;unsigned int&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - 85ea60feef9d8349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;long&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - e09706bf921293c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;unsigned long&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - f48469ed7cf7bc22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;float&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "ACCB7724-AA78-42AD-8069-1434841EC0C6 - 8a08f61a5389fa9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofPixels_&lt;double&gt;::resize(unsigned long, unsigned long, ofInterpolationMethod)"
+                  moduleName = "kinect-skeleton-trackingDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Projects/programming/of_v0.11.0_osx_release/libs/openFrameworks/graphics/ofPixels.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1263"
+                  endingLineNumber = "1263"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "788F2963-AF0E-4989-BEEC-F4A3A7EAAEFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "ofApp::draw()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBB88C02-205D-4C37-86AD-DF0FDBFA49CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "ofApp::draw()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "998E8BE9-7B7E-4FEE-9940-39DA2C06E54D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "ofApp::draw()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAC5F773-1266-4EF8-88A5-C75E2B3A58C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "ofApp::draw()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58E14EF1-8849-471E-8D34-1A7F7AE618A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "ofApp::draw()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F164D482-A711-45CF-BA84-F987601521E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "src/ofApp.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "ofApp::draw()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

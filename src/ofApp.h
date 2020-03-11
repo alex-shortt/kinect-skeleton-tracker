@@ -25,9 +25,13 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 	
+		// Kinect
 		ofxNI2::Device device;
 		ofxNiTE2::UserTracker tracker;
-		ofPixels depthPixels;
-		ofTexture depthTexture;
 		
+		// Video
+		ofVideoPlayer wrapper;
+			
+//		// Video Processing
+//		void containImage()
 };
